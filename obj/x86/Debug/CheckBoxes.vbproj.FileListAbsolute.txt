@@ -1,0 +1,30 @@
+E:\WindowsApplication2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\WindowsApplication2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\WindowsApplication2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\WindowsApplication2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\WindowsApplication2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+E:\WindowsApplication2\WindowsApplication1\bin\Debug\WindowsApplication1.application
+E:\WindowsApplication2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\WindowsApplication2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\WindowsApplication2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\WindowsApplication2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Checkboxes.resources
+E:\WindowsApplication2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Config.resources
+E:\WindowsApplication2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\WindowsApplication2\WindowsApplication1\obj\x86\Debug\CheckBoxes.vbproj.GenerateResource.Cache
+E:\WindowsApplication2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.manifest
+E:\WindowsApplication2\WindowsApplication1\obj\x86\Debug\WindowsApplication1.application
+E:\CheckBox Program\CheckBox Files\bin\Debug\WindowsApplication1.exe.config
+E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.exe
+E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.xml
+E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.pdb
+E:\CheckBox Program\CheckBox Files\bin\Debug\WindowsApplication1.exe.manifest
+E:\CheckBox Program\CheckBox Files\bin\Debug\WindowsApplication1.application
+E:\CheckBox Program\CheckBox Files\bin\Debug\WindowsApplication1.exe
+E:\CheckBox Program\CheckBox Files\bin\Debug\WindowsApplication1.pdb
+E:\CheckBox Program\CheckBox Files\bin\Debug\WindowsApplication1.xml
+E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.Checkboxes.resources
+E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.Config.resources
+E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\CheckBox Program\CheckBox Files\obj\x86\Debug\CheckBoxes.vbproj.GenerateResource.Cache
+E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.exe.manifest
+E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.application
