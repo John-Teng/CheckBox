@@ -3,148 +3,148 @@
   <Profiles />
   <Settings>
     <Setting Name="value1T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildAandR = 'TRUE'</Value>
+      <Value Profile="(Default)">a</Value>
     </Setting>
     <Setting Name="value1F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildAandR = 'FALSE'</Value>
+      <Value Profile="(Default)">b</Value>
     </Setting>
     <Setting Name="value2T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildAddInforOffice = 'TRUE'</Value>
+      <Value Profile="(Default)">c</Value>
     </Setting>
     <Setting Name="value2F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildAddInforOffice = 'FALSE'</Value>
+      <Value Profile="(Default)">d</Value>
     </Setting>
     <Setting Name="value3T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildAppAdmin = 'TRUE'</Value>
+      <Value Profile="(Default)">e</Value>
     </Setting>
     <Setting Name="value3F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildAppAdmin = 'FALSE'</Value>
+      <Value Profile="(Default)">f</Value>
     </Setting>
     <Setting Name="value4T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildCommands = 'TRUE'</Value>
+      <Value Profile="(Default)">g</Value>
     </Setting>
     <Setting Name="value4F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildCommands = 'FALSE'</Value>
+      <Value Profile="(Default)">h</Value>
     </Setting>
     <Setting Name="value5T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildCompMan = 'TRUE'</Value>
+      <Value Profile="(Default)">i</Value>
     </Setting>
     <Setting Name="value5F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildCompMan = 'FALSE'</Value>
+      <Value Profile="(Default)">j</Value>
     </Setting>
     <Setting Name="value6T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildDashboard = 'TRUE'</Value>
+      <Value Profile="(Default)">k</Value>
     </Setting>
     <Setting Name="value6F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildDashboard = 'FALSE'</Value>
+      <Value Profile="(Default)">l</Value>
     </Setting>
     <Setting Name="value7T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildDesigner = 'TRUE'</Value>
+      <Value Profile="(Default)">m</Value>
     </Setting>
     <Setting Name="value7F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildDesigner = 'FALSE'</Value>
+      <Value Profile="(Default)">n</Value>
     </Setting>
     <Setting Name="value8T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildDesktop = 'TRUE'</Value>
+      <Value Profile="(Default)">o</Value>
     </Setting>
     <Setting Name="value8F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildDesktop = 'FALSE'</Value>
+      <Value Profile="(Default)">p</Value>
     </Setting>
     <Setting Name="value9T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildDeveloper = 'TRUE'</Value>
+      <Value Profile="(Default)">q</Value>
     </Setting>
     <Setting Name="value9F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildDeveloper = 'FALSE'</Value>
+      <Value Profile="(Default)">r</Value>
     </Setting>
     <Setting Name="value10T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildExcel = 'TRUE'</Value>
+      <Value Profile="(Default)">s</Value>
     </Setting>
     <Setting Name="value10F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildExcel = 'FALSE'</Value>
+      <Value Profile="(Default)">t</Value>
     </Setting>
     <Setting Name="value11T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildInput = 'TRUE'</Value>
+      <Value Profile="(Default)">u</Value>
     </Setting>
     <Setting Name="value11F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildInput = 'FALSE'</Value>
+      <Value Profile="(Default)">v</Value>
     </Setting>
     <Setting Name="value12T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildInstall = 'TRUE'</Value>
+      <Value Profile="(Default)">w</Value>
     </Setting>
     <Setting Name="value12F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildInstall = 'FALSE'</Value>
+      <Value Profile="(Default)">x</Value>
     </Setting>
     <Setting Name="value13T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildIntegration = 'TRUE'</Value>
+      <Value Profile="(Default)">y</Value>
     </Setting>
     <Setting Name="value13F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildIntegration = 'FALSE'</Value>
+      <Value Profile="(Default)">z</Value>
     </Setting>
     <Setting Name="value14T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildJEs = 'TRUE'</Value>
+      <Value Profile="(Default)">1</Value>
     </Setting>
     <Setting Name="value14F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildJEs = 'FALSE'</Value>
+      <Value Profile="(Default)">2</Value>
     </Setting>
     <Setting Name="value15T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildServerMan = 'TRUE'</Value>
+      <Value Profile="(Default)">3</Value>
     </Setting>
     <Setting Name="value15F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildServerMan = 'FALSE'</Value>
+      <Value Profile="(Default)">4</Value>
     </Setting>
     <Setting Name="value16T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxAdminMRP = 'TRUE'</Value>
+      <Value Profile="(Default)">5</Value>
     </Setting>
     <Setting Name="value16F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxAdminMRP = 'FALSE'</Value>
+      <Value Profile="(Default)">6</Value>
     </Setting>
     <Setting Name="value17T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxAdmin = 'TRUE'</Value>
+      <Value Profile="(Default)">7</Value>
     </Setting>
     <Setting Name="value17F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxAdmin = 'FALSE'</Value>
+      <Value Profile="(Default)">8</Value>
     </Setting>
     <Setting Name="value18T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxImp = 'TRUE'</Value>
+      <Value Profile="(Default)">9</Value>
     </Setting>
     <Setting Name="value18F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxImp = 'FALSE'</Value>
+      <Value Profile="(Default)">10</Value>
     </Setting>
     <Setting Name="value19T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxUserASC = 'TRUE'</Value>
+      <Value Profile="(Default)">11</Value>
     </Setting>
     <Setting Name="value19F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxUserASC = 'FALSE'</Value>
+      <Value Profile="(Default)">12</Value>
     </Setting>
     <Setting Name="value20T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxUserIAS = 'TRUE'</Value>
+      <Value Profile="(Default)">13</Value>
     </Setting>
     <Setting Name="value20F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildTaxUserIAS = 'FALSE'</Value>
+      <Value Profile="(Default)">14</Value>
     </Setting>
     <Setting Name="value21T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildWorkflow = 'TRUE'</Value>
+      <Value Profile="(Default)">15</Value>
     </Setting>
     <Setting Name="value21F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildWorkflow = 'FALSE'</Value>
+      <Value Profile="(Default)">16</Value>
     </Setting>
     <Setting Name="value22T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildReleaseNotes = 'TRUE'</Value>
+      <Value Profile="(Default)">17</Value>
     </Setting>
     <Setting Name="value22F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildReleaseNotes = 'FALSE'</Value>
+      <Value Profile="(Default)">18</Value>
     </Setting>
     <Setting Name="value23T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildUpgrade = 'TRUE'</Value>
+      <Value Profile="(Default)">19</Value>
     </Setting>
     <Setting Name="value23F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vbuildUpgrade = 'FALSE'</Value>
+      <Value Profile="(Default)">20</Value>
     </Setting>
     <Setting Name="value24T" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vregression = 'TRUE'</Value>
+      <Value Profile="(Default)">21</Value>
     </Setting>
     <Setting Name="value24F" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Set vregression = 'FALSE'</Value>
+      <Value Profile="(Default)">22</Value>
     </Setting>
     <Setting Name="value25T" Type="System.String" Scope="User">
       <Value Profile="(Default)" />

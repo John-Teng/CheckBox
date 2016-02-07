@@ -28,3 +28,11 @@ E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.Resources.r
 E:\CheckBox Program\CheckBox Files\obj\x86\Debug\CheckBoxes.vbproj.GenerateResource.Cache
 E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.exe.manifest
 E:\CheckBox Program\CheckBox Files\obj\x86\Debug\WindowsApplication1.application
+D:\GitHub\CheckBox\bin\Debug\WindowsApplication1.exe.config
+D:\GitHub\CheckBox\obj\x86\Debug\WindowsApplication1.exe
+D:\GitHub\CheckBox\obj\x86\Debug\WindowsApplication1.xml
+D:\GitHub\CheckBox\obj\x86\Debug\WindowsApplication1.pdb
+D:\GitHub\CheckBox\obj\x86\Debug\WindowsApplication1.Checkboxes.resources
+D:\GitHub\CheckBox\obj\x86\Debug\WindowsApplication1.Config.resources
+D:\GitHub\CheckBox\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\GitHub\CheckBox\obj\x86\Debug\CheckBoxes.vbproj.GenerateResource.Cache
